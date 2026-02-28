@@ -1,0 +1,5 @@
+{
+  "name": "Hyper-Local Project Coordinator",
+  "description": "A community-focused platform for coordinating local projects like gardens and urban farms with privacy-first mapping and information feeds.",
+  "requestFramePermissions": ["geolocation"]
+}
